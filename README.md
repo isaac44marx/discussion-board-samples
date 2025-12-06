@@ -1,2 +1,2 @@
 # discussion-board-app
-A Java-based discussion board application with CRUD functionality, SQL database integration, JavaFX UI components, and comprehensive software testing.
+Code samples demonstrating CRUD operations, database interaction, and testing from my individual contributions to a semester-long software engineering project.
